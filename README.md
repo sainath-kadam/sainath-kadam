@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sainath Kadam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="center">
-  <img src="https://unsplash.com/photos/wlOv3cf41iE?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" alt="Sainath Kadam" width="200" height="200" />
-</p>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <h3 align="left">About Me:</h3>
 <p>
-I'm a dedicated and creative frontend developer based in India. With a strong passion for web development, I enjoy crafting delightful user experiences and bringing ideas to life through code. My journey in the world of technology has been an exciting one, filled with learning and growth.
+I'm a dedicated and creative Full Stack Developer based in India. With a strong passion for web development, I enjoy crafting delightful user experiences and bringing ideas to life through code. My journey in the world of technology has been an exciting one, filled with learning and growth.
 </p>
 
 - 👨‍💻 All of my projects are available at https://sainath-kadam.netlify.app/
@@ -52,36 +48,6 @@ I'm a dedicated and creative frontend developer based in India. With a strong pa
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <!-- Add more icons and tools you're proficient with -->
-</p>
-
-
-<h3 align="left">Education:</h3>
-<ul>
-  <li>Bachelor of Technology in EC (CGPA 8.0/10)<br>Indian Institute of Information Technology Tiruchirappalli (2020 to Present)</li>
-  <li>Higher Secondary School Certificate(XII) (71%)<br>Mahatma Basweshwar Junior College, Nanded (2018 to 2020)</li>
-  <li>Secondary School Certificate(X) (90%)<br>Kendriya Vidyalaya CRPF Mudkhed, Nanded (2010 to 2018)</li>
-</ul>
-
-<h3 align="left">Experience:</h3>
-<ul>
-  <li><strong>Web Developer</strong> at Null Organization (May 2023 - July 2023)</li>
-    <ul>
-      <li>Pioneered seamless integration of features and technologies during a 2-month summer internship.</li>
-      <li>Personalized 1-to-1 connections, amplifying brand visibility, and leaving a positive impact on website performance.</li>
-    </ul>
-  <li><strong>Web Developer</strong> at IIITT (August 2022 - Present)</li>
-    <ul>
-      <li>Developed interactive websites for IIIT's E-Cell, resulting in a 30% increase in information accessibility and participant engagement.</li>
-      <li>Streamlined event management for Prothymos Sport Fest, achieving a 40% reduction in administrative overhead.</li>
-    </ul>
-</ul>
-
-<h3 align="left">Projects:</h3>
-
-<h3 align="left">Technical Skills:</h3>
-<p align="left">
-  Languages: C/C++
-  <!-- Add more skills and technologies -->
 </p>
 
 <h3 align="left">Achievements and Extra Activities:</h3>
